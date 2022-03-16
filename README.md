@@ -7,7 +7,9 @@ Web scraping, also called web data mining or web harvesting, is the process of c
 
 # Uses of Web Scraping
 
-The uses and reasons for using web scraping are as endless as the uses of the World Wide Web. Web scrapers can do anything like ordering online food, scanning online shopping website for you and buying ticket of a match the moment they are available etc. just like a human can do. Some of the important uses of web scraping are discussed here −
+The uses and reasons for using web scraping are as endless as the uses of the World Wide Web. Web scrapers can do anything like ordering online food, scanning online shopping website for you and buying ticket of a match the moment they are available etc. just like a human can do. 
+
+# Some of the important uses of web scraping are discussed here −
 
 +	E-commerce Websites − Web scrapers can collect the data specially related to the price of a specific product from various e-commerce websites for their comparison.
 
